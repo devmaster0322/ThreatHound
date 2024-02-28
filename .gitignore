@@ -38,6 +38,7 @@ pip-delete-this-directory.txt
 
 # Unit test / coverage reports
 htmlcov/
+flask_session/
 .tox/
 .nox/
 .coverage
@@ -124,6 +125,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+venv_webviewer/
 ENV/
 env.bak/
 venv.bak/
